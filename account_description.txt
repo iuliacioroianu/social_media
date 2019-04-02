@@ -1,0 +1,3 @@
+I am a social data scientist who studies the effects of social media and online information exposure on political competition and polarization, using natural language processing, quantitative text analysis, machine learning and survey experiments. 
+1. I am planning to use Twitter data to Analysing public opinion about Brexit. 
+2. I will be collecting politician and public tweets and analyse the text and networks. 3. 
